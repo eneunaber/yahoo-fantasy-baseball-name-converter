@@ -7,8 +7,8 @@
     <ProjectGuid>{FFFAA9B8-3C00-4054-8892-0809096DF3D8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>YahooNameConverter</RootNamespace>
-    <AssemblyName>YahooNameConverter</AssemblyName>
+    <RootNamespace>YahooFantasyBaseballNameConverter</RootNamespace>
+    <AssemblyName>Yahoo-Fantasy-Baseball-Name-Converter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

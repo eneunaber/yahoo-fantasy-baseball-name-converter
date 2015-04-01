@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahooNameConverter", "YahooNameConverter\YahooNameConverter.csproj", "{FFFAA9B8-3C00-4054-8892-0809096DF3D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yahoo-fantasy-baseball-name-converter", "YahooFantasyBaseballNameConverter\yahoo-fantasy-baseball-name-converter.csproj", "{FFFAA9B8-3C00-4054-8892-0809096DF3D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

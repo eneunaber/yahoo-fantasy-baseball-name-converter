@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 using System.IO;
 
 
-namespace YahooNameConverter
+namespace YahooFantasyBaseballNameConverter
 {
     class Program
     {
